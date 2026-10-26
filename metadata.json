@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Traffic Rush - 3D Auto Rickshaw Game",
+  "description": "A funny 3D Bangladeshi traffic racing game. Drive an electric auto-rickshaw through chaotic Dhaka roads dodging local buses, rickshaws, and road chaos!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
